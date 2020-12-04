@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T12:39:20.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="-0LnT3VMPlF4DNTpmhPv" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T12:42:51.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="SrIeYaKRqtXV-fcPfx6U" version="13.10.2" type="github">
   <diagram id="DG9CXElzmPa5mgQnKMPr" name="Page-1">
     <mxGraphModel dx="2208" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,11 +84,11 @@
         <mxCell id="Q-32zpgACUSiAww-bn3P-5" value="Заказ на печать" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-292.5" y="200" width="75" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="4z8t_qyZIXsdBZb9KwKe-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Q-32zpgACUSiAww-bn3P-6" target="4z8t_qyZIXsdBZb9KwKe-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q-32zpgACUSiAww-bn3P-6" value="Выбор опций на оформление" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-305" y="130" width="95" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="4z8t_qyZIXsdBZb9KwKe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Q-32zpgACUSiAww-bn3P-7" target="Q-32zpgACUSiAww-bn3P-74">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4z8t_qyZIXsdBZb9KwKe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Q-32zpgACUSiAww-bn3P-7" target="Q-32zpgACUSiAww-bn3P-76">
           <mxGeometry relative="1" as="geometry" />
@@ -125,9 +125,6 @@
         </mxCell>
         <mxCell id="Q-32zpgACUSiAww-bn3P-34" value="Устранение расфокусировки" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-98.5" width="95" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q-32zpgACUSiAww-bn3P-74" value="На дом" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-225" y="-30" width="65" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Q-32zpgACUSiAww-bn3P-76" value="Самовывоз" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-225" y="-5" width="65" height="25" as="geometry" />
@@ -244,9 +241,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4z8t_qyZIXsdBZb9KwKe-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="4z8t_qyZIXsdBZb9KwKe-73" target="Q-32zpgACUSiAww-bn3P-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4z8t_qyZIXsdBZb9KwKe-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="4z8t_qyZIXsdBZb9KwKe-73" target="Q-32zpgACUSiAww-bn3P-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4z8t_qyZIXsdBZb9KwKe-73" value="Оформление фото" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
